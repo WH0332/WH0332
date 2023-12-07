@@ -1,3 +1,3 @@
 
 - Learning to be a FullStack Dev.
-- HTML&CSS,Laravel,SQL,JS and python.
+- HTML&CSS,C C++ and python.
