@@ -1,3 +1,3 @@
 
-- Learning to be a electronic engineer.
+- Learning to be an electronic engineer.
 - C++ and python.
