@@ -1,3 +1,3 @@
 
-- Learning to be a FullStack Dev.
-- HTML&CSS,C C++ and python.
+- Learning to be a electronic engineer.
+- C++ and python.
