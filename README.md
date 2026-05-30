@@ -1,3 +1,2 @@
+Share my project for education and research only.
 
-- Learning to be an electronic engineer.
-- C++ and python.
